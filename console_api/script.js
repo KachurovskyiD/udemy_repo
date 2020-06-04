@@ -57,6 +57,7 @@ let personalMovieDB = {
         personalMovieDB.genres[i - 1] = genre;
       }
     }
+
     // Alternative
     // for (let i = 1; i < 2; i++) {
     //   let genres = prompt(`Ваши любимые жанры через запятую`, "").toLowerCase();
